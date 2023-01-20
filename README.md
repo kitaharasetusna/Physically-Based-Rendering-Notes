@@ -6,3 +6,6 @@ I'm learning graphcis and openGL and some fluid simulations、Geometry so I can 
 
 But I plan to write all this pics into latex/markdown when I got time(after reading through the whole book, and I will add some reference here.
 
+# reference
+[1] Physically Based Rendering, fourth edition: From Theory to Implementation 4th Edition
+[2] Linear Algebra Done Right (Undergraduate Texts in Mathematics) 3rd Edition, Kindle Edition
